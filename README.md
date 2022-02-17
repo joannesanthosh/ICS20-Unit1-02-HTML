@@ -3,4 +3,4 @@
 
 
 
-This website can be found at: [https://joannesanthosh.github.io/ICS20-Unit1-02-HTML](https://joannesanthosh.github.io/ICS20-Unit1-02-HTML)
+This site can be found at: [https://joannesanthosh.github.io/ICS20-Unit1-02-HTML](https://joannesanthosh.github.io/ICS20-Unit1-02-HTML)
